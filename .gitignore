@@ -1,0 +1,16 @@
+# XAMPP
+xampp/
+
+# Configuration locale
+.env
+
+# Cache
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db
